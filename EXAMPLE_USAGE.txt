@@ -1,0 +1,6 @@
+
+# Example runs (run in terminal)
+
+./tls_inspector.py google.com
+./tls_inspector.py expired.badssl.com
+./tls_inspector.py self-signed.badssl.com --json
